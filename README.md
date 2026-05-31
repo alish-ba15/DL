@@ -1,6 +1,7 @@
 # AI-Based Clinical Deterioration Prediction System
 
 **Note:** GitHub may occasionally fail to render large Jupyter notebooks and display a preview error. If the notebook preview does not load, please download the notebook and open it using Jupyter Notebook, Google Colab, or VS Code.
+Notebook Link:https://colab.research.google.com/drive/1HDSE8rTkH0Zo7qX2QrkvokWX_VMi9EO8?usp=sharing
 
 ## Project Overview
 
